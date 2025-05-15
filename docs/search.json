@@ -32,7 +32,7 @@
     "href": "FYP Project.html",
     "title": "FYP Project",
     "section": "",
-    "text": "This FPY Project was done during Polytechnic.\n\n\nMany estate bins are emptied on a fixed timetable. Some are still half-empty when the truck arrives, while others overflow before the next round. This wastes fuel and labour.\n###Solution\nI designed and built a Smart Dustbin that measures how full it is and sends the data to a cloud dashboard. When the bin reaches 80 % capacity, the system alerts cleaners to pick it up.This project was dine using arduino and ESP32. The data is sent to a cloud dashboard using ThingSpeak. The system is powered by a solar panel, so it can be used in remote areas without electricity.\n\n\n\nSmartDustbin"
+    "text": "This FPY Project was done during Polytechnic.\n\n\nMany estate bins are emptied on a fixed timetable. Some are still half-empty when the truck arrives, while others overflow before the next round. This wastes fuel and labour.\n\n\n\nI designed and built a Smart Dustbin that measures how full it is and sends the data to a cloud dashboard. When the bin reaches 80 % capacity, the system alerts cleaners to pick it up.This project was dine using arduino and ESP32. The data is sent to a cloud dashboard using ThingSpeak. The system is powered by a solar panel, so it can be used in remote areas without electricity.\n\n\n\nSmartDustbin"
   },
   {
     "objectID": "Travel.html",
@@ -45,8 +45,8 @@
     "objectID": "Reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
     "href": "Reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
     "title": "Reflection",
-    "section": "What is the GenAI tool you have used? Why did you choose it?",
-    "text": "What is the GenAI tool you have used? Why did you choose it?\nI use Chatgpt cause it is a very powerful tool that can help me with my work. I can use it to generate ideas, write code, and even create content for my website. I chose it because it is easy to use and has a lot of features that can help me with my work."
+    "section": "",
+    "text": "I use Chatgpt cause it is a very powerful tool that can help me with my work. I can use it to generate ideas, write code, and even create content for my website. I chose it because it is easy to use and has a lot of features that can help me with my work."
   },
   {
     "objectID": "Reflection.html#how-did-the-genai-tool-help-you-in-completing-the-assessment",
@@ -74,6 +74,13 @@
     "href": "FYP Project.html#smart-dusbin",
     "title": "FYP Project",
     "section": "",
-    "text": "This FPY Project was done during Polytechnic.\n\n\nMany estate bins are emptied on a fixed timetable. Some are still half-empty when the truck arrives, while others overflow before the next round. This wastes fuel and labour.\n###Solution\nI designed and built a Smart Dustbin that measures how full it is and sends the data to a cloud dashboard. When the bin reaches 80 % capacity, the system alerts cleaners to pick it up.This project was dine using arduino and ESP32. The data is sent to a cloud dashboard using ThingSpeak. The system is powered by a solar panel, so it can be used in remote areas without electricity.\n\n\n\nSmartDustbin"
+    "text": "This FPY Project was done during Polytechnic.\n\n\nMany estate bins are emptied on a fixed timetable. Some are still half-empty when the truck arrives, while others overflow before the next round. This wastes fuel and labour.\n\n\n\nI designed and built a Smart Dustbin that measures how full it is and sends the data to a cloud dashboard. When the bin reaches 80 % capacity, the system alerts cleaners to pick it up.This project was dine using arduino and ESP32. The data is sent to a cloud dashboard using ThingSpeak. The system is powered by a solar panel, so it can be used in remote areas without electricity.\n\n\n\nSmartDustbin"
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "I use Chatgpt cause it is a very powerful tool that can help me with my work. I can use it to generate ideas, write code, and even create content for my website. I chose it because it is easy to use and has a lot of features that can help me with my work."
   }
 ]
