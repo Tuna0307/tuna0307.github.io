@@ -2,8 +2,6 @@
 title: "Reflection"
 ---
 
-## Reflection
-
 ## What is the GenAI tool you have used? Why did you choose it?
 
 I use Chatgpt cause it is a very powerful tool that can help me with my work. I can use it to generate ideas, write code, and even create content for my website. I chose it because it is easy to use and has a lot of features that can help me with my work.

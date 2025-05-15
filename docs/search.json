@@ -32,7 +32,7 @@
     "href": "FYP Project.html",
     "title": "FYP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This FPY Project was done during Polytechnic.\n\n\nMany estate bins are emptied on a fixed timetable. Some are still half-empty when the truck arrives, while others overflow before the next round. This wastes fuel and labour.\n###Solution\nI designed and built a Smart Dustbin that measures how full it is and sends the data to a cloud dashboard. When the bin reaches 80 % capacity, the system alerts cleaners to pick it up.This project was dine using arduino and ESP32. The data is sent to a cloud dashboard using ThingSpeak. The system is powered by a solar panel, so it can be used in remote areas without electricity.\n\n\n\nSmartDustbin"
   },
   {
     "objectID": "Travel.html",
@@ -68,5 +68,12 @@
     "title": "Travel",
     "section": "",
     "text": "Walking through the narrow lanes of Gion, I watched locals move quietly and politely, even when the streets felt crowded.\nThe calm pace forced me to slow down too. I learnt to:\n\nPlan less, notice more – leaving gaps in my itinerary meant I could linger in a teahouse and sketch the wooden façades.\n\nPractise everyday respect – a gentle bow and soft “arigatō” changed interactions with shopkeepers.\n\nInfluence: Since returning, I schedule short “tea breaks” in my day to pause, breathe, and reset my focus.\n\n\n\nJapan"
+  },
+  {
+    "objectID": "FYP Project.html#smart-dusbin",
+    "href": "FYP Project.html#smart-dusbin",
+    "title": "FYP Project",
+    "section": "",
+    "text": "This FPY Project was done during Polytechnic.\n\n\nMany estate bins are emptied on a fixed timetable. Some are still half-empty when the truck arrives, while others overflow before the next round. This wastes fuel and labour.\n###Solution\nI designed and built a Smart Dustbin that measures how full it is and sends the data to a cloud dashboard. When the bin reaches 80 % capacity, the system alerts cleaners to pick it up.This project was dine using arduino and ESP32. The data is sent to a cloud dashboard using ThingSpeak. The system is powered by a solar panel, so it can be used in remote areas without electricity.\n\n\n\nSmartDustbin"
   }
 ]
