@@ -1,11 +1,10 @@
 ---
-title: "temp_website"
+title: "Me"
 ---
 
-This is a Quarto website.
+## Introduction
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, I’m Wei Xuan, From AAI. I love travelling and discovering new places.
 
-```{r}
-1 + 1
-```
+![Plane](plane.jpg)
+
